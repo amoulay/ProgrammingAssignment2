@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## two functions do
+## two functions do for this assignment
 
 ## Write a short comment describing this function
 
